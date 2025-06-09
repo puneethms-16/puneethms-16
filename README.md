@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=puneethms-16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=puneethms-16&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=puneethms-16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=puneethms-16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 

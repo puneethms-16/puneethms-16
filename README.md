@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://assets.hyscaler.com/wp-content/uploads-webpc/uploads/2024/04/github-copilot-free-featured-image.png.webp"  />
 
 ###
 ![](https://github-readme-stats.vercel.app/api?username=puneethms-16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>

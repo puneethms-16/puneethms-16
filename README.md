@@ -18,7 +18,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=puneethms-16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=puneethms-16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+![](https://leetcard.jacoblin.cool/PuneethMS?site=cn)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -30,4 +30,3 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![](https://leetcard.jacoblin.cool/PuneethMS?font=Dancing_Script)

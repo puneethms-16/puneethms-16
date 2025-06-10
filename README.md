@@ -30,4 +30,4 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![](https://leetcard.jacoblin.cool/https://leetcode.com/u/PuneethMS/?font=Dancing_Script)
+![](https://leetcard.jacoblin.cool/PuneethMS?font=Dancing_Script)

@@ -14,7 +14,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=puneethms-16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+![](https://leetcard.jacoblin.cool/Puneethms16?site=cn)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
